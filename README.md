@@ -6,4 +6,5 @@ E-Commerce Web Application  Welcome to our open-source e-commerce web applicatio
 
 Frontend: HTML, CSS, JavaScript, Bootstrap.
 Backend: Django.
+Database: Postgre
 
